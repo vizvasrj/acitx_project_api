@@ -22,4 +22,4 @@ steps:
 timeout: 1200s
 
 substitutions:
-  _SERVICE_NAME: acitx_project_api
+  _SERVICE_NAME: acitx-project-api
